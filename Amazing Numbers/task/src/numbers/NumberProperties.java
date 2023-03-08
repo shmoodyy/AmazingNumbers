@@ -3,15 +3,6 @@ package numbers;
 class NumberProperties {
     enum AvailableProperties {
         EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING, HAPPY, SAD
-
-//        public static ChargeLevel findByNumberOfSections(int sections) {
-//            for (ChargeLevel value: values()) {
-//                if (value.sections == sections) {
-//                    return value;
-//                }
-//            }
-//            return null;
-//        }
     }
 
     static StringBuilder invalidProperty;
