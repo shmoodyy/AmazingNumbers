@@ -1,0 +1,65 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Amazing Numbers/*
+!/Amazing Numbers/task/
+/Amazing Numbers/task/*
+!/Amazing Numbers/task/src
+
+# Project exclude paths
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Debugging techniques/Theory/out/
+/Topics/Debugging techniques/Theory/out/production/classes/
+/Topics/Enums in Java/Currencies/out/
+/Topics/Enums in Java/Currencies/out/production/classes/
+/Topics/Enums in Java/Days of week/out/
+/Topics/Enums in Java/Days of week/out/production/classes/
+/Topics/Enums in Java/Hidden enumeration/out/
+/Topics/Enums in Java/Hidden enumeration/out/production/classes/
+/Topics/Enums in Java/Theory/out/
+/Topics/Enums in Java/Theory/out/production/classes/
+/Topics/Fields and methods in enum/Balance management/out/
+/Topics/Fields and methods in enum/Balance management/out/production/classes/
+/Topics/Fields and methods in enum/Danger levels/out/
+/Topics/Fields and methods in enum/Danger levels/out/production/classes/
+/Topics/Fields and methods in enum/Elements of enum/out/
+/Topics/Fields and methods in enum/Elements of enum/out/production/classes/
+/Topics/Fields and methods in enum/Months/out/
+/Topics/Fields and methods in enum/Months/out/production/classes/
+/Topics/Fields and methods in enum/Planets of the solar system/out/
+/Topics/Fields and methods in enum/Planets of the solar system/out/production/classes/
+/Topics/Fields and methods in enum/System of units/out/
+/Topics/Fields and methods in enum/System of units/out/production/classes/
+/Topics/Fields and methods in enum/Theory/out/
+/Topics/Fields and methods in enum/Theory/out/production/classes/
+/Topics/Getters and setters/Book/out/
+/Topics/Getters and setters/Book/out/production/classes/
+/Topics/Getters and setters/Choose a pair of getter and setter/out/
+/Topics/Getters and setters/Choose a pair of getter and setter/out/production/classes/
+/Topics/Getters and setters/Getting the fullname/out/
+/Topics/Getters and setters/Getting the fullname/out/production/classes/
+/Topics/Getters and setters/The name of setter/out/
+/Topics/Getters and setters/The name of setter/out/production/classes/
+/Topics/Getters and setters/Theory/out/
+/Topics/Getters and setters/Theory/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
